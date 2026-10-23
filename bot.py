@@ -31,7 +31,7 @@ load_dotenv()
 DB_CONFIG = {
     "host": "localhost:3306",
     "user": "root",
-    "password": quote_plus("Vfhbyf2013@"),
+    "password": quote_plus("pass_example"),
     "db": "bot1c_db",
 }
 
